@@ -70,3 +70,4 @@ PrintArrayVar1(initialArr);
 string[] newArr = NewArray(initialArr);
 PrintArrayVar1(newArr);
 Console.WriteLine(PrintArrayVar2(newArr));
+File.WriteAllText("test_file", (PrintArrayVar2(newArr)));
