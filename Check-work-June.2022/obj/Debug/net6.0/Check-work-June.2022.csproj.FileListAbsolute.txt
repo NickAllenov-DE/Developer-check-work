@@ -1,0 +1,15 @@
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\bin\Debug\net6.0\Check-work-June.2022.exe
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\bin\Debug\net6.0\Check-work-June.2022.deps.json
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\bin\Debug\net6.0\Check-work-June.2022.runtimeconfig.json
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\bin\Debug\net6.0\Check-work-June.2022.dll
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\bin\Debug\net6.0\Check-work-June.2022.pdb
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.csproj.AssemblyReference.cache
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.AssemblyInfoInputs.cache
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.AssemblyInfo.cs
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.dll
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\refint\Check-work-June.2022.dll
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.pdb
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\Check-work-June.2022.genruntimeconfig.cache
+D:\GeekBrains\Developer-check-work\Check-work-June.2022\obj\Debug\net6.0\ref\Check-work-June.2022.dll
