@@ -62,16 +62,11 @@ string PrintArrayVar2(string[] array)
 string[] startStrings = {"IT", "is", "the", "future!", "AI", "BI", "Cyber", "Security", "Drones", "Space", 
 "Bot", "Block", "Chain", "Dot", "Net", "Run", "Sky", "Data", "Science", "Hi!"};
 
-Console.WriteLine("Select the length of the initial array in range from 1 to 20: ");
+Console.WriteLine("Select the length of the initial array: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
-if (size > 0 && size <= startStrings.Length)
-{
-    string[] initialArr = CreateInitialArray(startStrings, size, 0, startStrings.Length);
-    PrintArrayVar1(initialArr);
-    string[] newArr = NewArray(initialArr);
-    PrintArrayVar1(newArr);
-    Console.WriteLine(PrintArrayVar2(newArr));
-}
-else
-    Console.WriteLine("Invalid value entered! Please enter a number between 1 and " + startStrings.Length);
+string[] initialArr = CreateInitialArray(startStrings, size, 0, startStrings.Length);
+PrintArrayVar1(initialArr);
+string[] newArr = NewArray(initialArr);
+PrintArrayVar1(newArr);
+Console.WriteLine(PrintArrayVar2(newArr));
